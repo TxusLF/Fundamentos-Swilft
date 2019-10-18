@@ -1,7 +1,7 @@
 # Fundamentos-Swilft
 Fundamentos Swilft
 
-Introduccion al mundo de programación en IOS con lenguaje SWIFT utilizando el IDE XCODE.
+Introduccion al mundo de programación en IOS con lenguaje SWIFT 5 utilizando el IDE XCODE 11.
 
 Se ha introducido una variable etiqueta que muestra el mensaje HOLA SWIFT WORL al acceder a la app.
 
